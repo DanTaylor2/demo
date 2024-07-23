@@ -3,6 +3,7 @@
 This is a demonstration of a knowledge base using MkDocs. MkDocs is a fast, simple, and downright gorgeous static site generator that's geared towards building project documentation.
 
 ## What is a Knowledge Base?
+  ![Image title](https://dummyimage.com/600x400/){ width="300" }
 
 A knowledge base is a centralized repository of information. It can include:
 
@@ -13,6 +14,8 @@ A knowledge base is a centralized repository of information. It can include:
 - Company policies and procedures
 
 ## Why Use MkDocs for a Knowledge Base?
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
+![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
 
 MkDocs offers several advantages for creating a knowledge base:
 
@@ -37,7 +40,7 @@ Here's an example of how you might structure your knowledge base:
 
 ## Next Steps
 
-!(/img/TVQHZkqgnZ.png)
+![image](img/TVQHZkqgnZ.png)
 
 To start building your own knowledge base with MkDocs:
 
