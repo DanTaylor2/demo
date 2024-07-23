@@ -14,8 +14,6 @@ A knowledge base is a centralized repository of information. It can include:
 - Company policies and procedures
 
 ## Why Use MkDocs for a Knowledge Base?
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
-![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
 
 MkDocs offers several advantages for creating a knowledge base:
 
