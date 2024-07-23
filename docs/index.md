@@ -37,6 +37,8 @@ Here's an example of how you might structure your knowledge base:
 
 ## Next Steps
 
+!(/img/TVQHZkqgnZ.png)
+
 To start building your own knowledge base with MkDocs:
 
 1. Install MkDocs: `pip install mkdocs`

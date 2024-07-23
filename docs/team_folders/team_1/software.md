@@ -1,5 +1,8 @@
 # Software Lifecycle Management at Contoso
 
+For software deployment see [here](deployment.md)
+
+
 ## Introduction
 
 This document outlines the software lifecycle and management practices at Contoso. It provides an overview of our approach to developing, maintaining, and retiring software products.
