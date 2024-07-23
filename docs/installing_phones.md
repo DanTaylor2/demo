@@ -14,6 +14,7 @@
 3. Select the Power option.
 4. Choose "Restart" from the dropdown menu.
 5. Wait for the computer to fully reboot.
+edit
 
 ## 3. Configure Settings for SBCs
 
